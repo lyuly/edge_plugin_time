@@ -1,0 +1,11 @@
+{
+  "name": "time",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [],
+  "background": {
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
